@@ -1,0 +1,1 @@
+This repo contains a React walkthrough I coded along to from The Net Ninja: https://www.youtube.com/watch?v=6RhOzQciVwI
